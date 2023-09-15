@@ -1,0 +1,8 @@
+* Circuit with both voltage and current sources
+.circuit
+Vsource n1 GND 10
+Isource n3 GND 1 #jkmkjmnkj #nkjnkjdnkjn
+R1 n1 n2 2 #jkmkjmnkjnkjnkjdnkjn
+R2 n2 n3 5 #jkmkjmnkjnkjnkjdnkjn
+R3 n2 GND 3
+.end
